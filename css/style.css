@@ -28,8 +28,10 @@ body {
 }
 
 #sobremi img {
+  
+  width: 256px;
   border-radius: 130px;
-  height: 250px;
+  height: 274px;
 
 }
 
@@ -203,9 +205,30 @@ footer .fa-linkedin-in {
   background-size: contain;
   background-repeat: no-repeat;
  }
-
-
-
 }
 
+#stack {  
+
+
+border-radius: 0%;
+    background: rgb(125, 7, 7);
+    background: linear-gradient(90deg, rgba(125, 7, 7, 1) 0%, rgba(215, 11, 11, 1) 100%);
+}
+
+#btnSobremi {
+  
+  width: 100px;
+  background-color: #ff4a49;;
+  color: white; 
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+#stack .tecnologia {
+
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+}
 
