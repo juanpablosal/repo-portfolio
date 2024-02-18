@@ -225,14 +225,69 @@ border-radius: 0%;
   border-radius: 20px;
 }
 
+#stack h2 {
+  color: white;
+  padding: 20px 0px;
+}
+
 #stack .tecnologia {
 
   background-color: white;
   text-align: center;
   border-radius: 5px;
+  height:180px;
 }
 
-.tecnologia .fa-brand {
-  font-size: 45px;
+#stack .tecnologia i {
+
+  font-size: 60px;
+  color: #6A6A6A; 
 }
+
+#stack .tecnologia h3 {
+
+  font-weight: 300;
+  font-size: 18px; 
+}
+
+
+#experiencia h2 {
+
+  font-weight: 400;
+  font-size: 24px;
+  color: #370A6D;
+}
+#experiencia h4 {
+
+  font-size: 17px;
+  color: #370A6D;
+}
+#experiencia h3 {
+
+  font-size: 18px;
+  color: grey;
+  font-weight: 600;
+}
+#experiencia h5 {
+
+  font-size: 14px;
+  color: grey;
+
+}
+
+#experiencia img {
+  
+  height: 59px;
+}
+
+.baw {
+  -webkit-filter: grayscale(90%);
+  filter: grayscale(100%);
+}
+
+.baw:hover {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(0%);
+}
+
 
